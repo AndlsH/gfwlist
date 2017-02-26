@@ -6,6 +6,20 @@
 ! Homepage: https://www.andls.com/
 ! Date: Sat, 25 Feb 2017 05:34:29 +0100
 
+||codenvy.io
+||readme.io
+||githubapp.com
+||hostloc.com
+||s3.amazonaws.com
+||github.io
+||github.com
+||gitbooks.io
+zh.wikipedia.org
+||cloudfront.net
+@@||paypal.com
+||travis-ci.com
+||travis-ci.org
+
 
 
 !================ Original GFWList ================
