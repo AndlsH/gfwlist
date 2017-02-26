@@ -1,19 +1,14 @@
 [AutoProxy 0.2.9]
-! Checksum: 1g+Mav6SIhKWSXgIwiDKvA
-! Expires: 6h
-! Title: GFWList4LL
-! GFWList with EVERYTHING included
-! Last Modified: Sat, 25 Feb 2017 05:34:29 +0100
-!
-! HomePage: https://github.com/gfwlist/gfwlist
-! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
-!
-! GFWList is unlikely to fully comprise the real
-! rules being deployed inside GFW system. We try
-! our best to keep the list up to date. Please
-! contact us regarding URL submission / removal,
-! or suggestion / enhancement at issue tracker:
-! https://github.com/gfwlist/gfwlist/issues/.
+! Version: 20170224
+! Title: AccNet
+! Last modified: 2017-02-24
+! Expires: 14 days
+! Homepage: https://www.andls.com/
+! Date: Sat, 25 Feb 2017 05:34:29 +0100
+
+
+
+!================ Original GFWList ================
 
 !---------403/451/520 & URL Redirects---------
 ||2dbook.com
