@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Version: 20170227
+! Version: 20170303
 ! Title: AccNet
-! Last modified: 2017-02-27
+! Last modified: 2017-03-03
 ! Expires: 14 days
 ! Homepage: https://www.andls.com/
 
@@ -19,6 +19,41 @@ zh.wikipedia.org
 ||travis-ci.com
 ||travis-ci.org
 
+!################Whitelist Start################
+@@||aliyun.com
+@@||baidu.com
+!--@@||bing.com
+@@||chinaso.com
+@@||chinaz.com
+@@|http://nrch.culture.tw/
+!--ISP cache works sometimes, verified at drpeng + gehua.
+@@||dl.google.com
+@@||kh.google.com
+@@||fonts.googleapis.com
+@@||cn.gravatar.com
+@@||csi.gstatic.com
+@@||fonts.gstatic.com
+@@||haosou.com
+@@||jd.com
+@@||jike.com
+@@|http://translate.google.cn
+@@|http://www.google.cn/maps
+@@||http2.golang.org
+@@||gov.cn
+@@||qq.com
+@@||sina.cn
+@@||sina.com.cn
+@@||sogou.com
+@@||so.com
+@@||soso.com
+@@||taobao.com
+@@||weibo.com
+@@||yahoo.cn
+@@||youdao.com
+@@||zhongsou.com
+@@|http://ime.baidu.jp
+!################Whitelist End##################
+
 !================ Original GFWList ================
 
 !---------403/451/520 & URL Redirects---------
@@ -35,7 +70,7 @@ zh.wikipedia.org
 ||asianspiss.com
 ||athenaeizou.com
 ||azubu.tv
-||barracuda.com
+!--||barracuda.com
 ||beeg.com
 ||bloombergview.com
 ||boysmaster.com
@@ -2041,6 +2076,7 @@ eyevio.jp
 falun-co.org
 falunart.org
 ||falunasia.info
+|http://falunau.org
 falundafa.org
 falundafa-dc.org
 ||falundafa-florida.org
@@ -2151,6 +2187,7 @@ fleshbot.com
 .fleursdeslettres.com
 |http://fleursdeslettres.com
 ||flgg.us
+||flgjustice.org
 
 !--||farm6.staticflickr.com
 !--.flickr.com/photos/46231077@N06
@@ -2370,6 +2407,7 @@ www.ftchinese.com/story/001067479
 .ftchinese.com/story/001071106
 .ftchinese.com/story/001071181
 .ftchinese.com/story/001071208
+.ftchinese.com/story/001071238
 .ftchinese.com/video/1437
 .ftchinese.com/video/1882
 .ftchinese.com/comments
@@ -6524,38 +6562,4 @@ taipei.gov.tw
 @@||taitung-house.gov.tw
 !#############Supplemental List End#############
 
-!################Whitelist Start################
-@@||aliyun.com
-@@||baidu.com
-!--@@||bing.com
-@@||chinaso.com
-@@||chinaz.com
-@@|http://nrch.culture.tw/
-!--ISP cache works sometimes, verified at drpeng + gehua.
-@@||dl.google.com
-@@||kh.google.com
-@@||fonts.googleapis.com
-@@||cn.gravatar.com
-@@||csi.gstatic.com
-@@||fonts.gstatic.com
-@@||haosou.com
-@@||jd.com
-@@||jike.com
-@@|http://translate.google.cn
-@@|http://www.google.cn/maps
-@@||http2.golang.org
-@@||gov.cn
-@@||qq.com
-@@||sina.cn
-@@||sina.com.cn
-@@||sogou.com
-@@||so.com
-@@||soso.com
-@@||taobao.com
-@@||weibo.com
-@@||yahoo.cn
-@@||youdao.com
-@@||zhongsou.com
-@@|http://ime.baidu.jp
-!################Whitelist End##################
 !---------------------EOF-----------------------
