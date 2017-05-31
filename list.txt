@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Version: 20170303
+! Version: 20170531
 ! Title: AccNet
-! Last modified: 2017-03-03
+! Last modified: 2017-05-31
 ! Expires: 14 days
 ! Homepage: https://www.andls.com/
 
@@ -15,9 +15,11 @@
 ||gitbooks.io
 zh.wikipedia.org
 ||cloudfront.net
-@@||paypal.com
+||paypal.com
 ||travis-ci.com
 ||travis-ci.org
+||nyt.com
+||runtastic.com
 
 !################Whitelist Start################
 @@||aliyun.com
