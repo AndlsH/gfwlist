@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Version: 20170531
+! Version: 20170725
 ! Title: AccNet
-! Last modified: 2017-05-31
+! Last modified: 2017-07-25
 ! Expires: 14 days
-! Homepage: https://www.andls.com/
+! Homepage: https://www.eelord.com/
 
 ||codenvy.io
 ||readme.io
@@ -1329,8 +1329,8 @@ bunbunhk.com
 .businessinsider.com/internet-outages-reported-in-north-korea-2014
 .businessinsider.com/iphone-6-is-approved-for-sale-in-china-2014
 .businessinsider.com/nfl-announcers-surface-tablets-2014
-.businessinsider.com/umbrella-man-hong-kong-2014
 .businessinsider.com/panama-papers
+.businessinsider.com/umbrella-man-hong-kong-2014
 |http://www.businessinsider.com.au/*
 .businessweek.com
 .busu.org/news
