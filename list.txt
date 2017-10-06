@@ -1,11 +1,11 @@
 [AutoProxy 0.2.9]
-<<<<<<< HEAD
-! Version: 20170725
+! Version: 20171006
 ! Title: AccNet
-! Last modified: 2017-07-25
+! Last modified: 2017-10-06
 ! Expires: 14 days
 ! Homepage: https://www.eelord.com/
 
+||texstudio.org
 ||codenvy.io
 ||readme.io
 ||githubapp.com
@@ -60,23 +60,6 @@ zh.wikipedia.org
 !################Whitelist End##################
 
 !================ Original GFWList ================
-=======
-! Checksum: NM7MibKCeYeFi070dzSt0A
-! Expires: 6h
-! Title: GFWList4LL
-! GFWList with EVERYTHING included
-! Last Modified: Wed, 04 Oct 2017 01:04:35 -0400
-!
-! HomePage: https://github.com/gfwlist/gfwlist
-! License: https://raw.githubusercontent.com/gfwlist/gfwlist/master/COPYING.txt
-!
-! GFWList is unlikely to fully comprise the real
-! rules being deployed inside GFW system. We try
-! our best to keep the list up to date. Please
-! contact us regarding URL submission / removal,
-! or suggestion / enhancement at issue tracker:
-! https://github.com/gfwlist/gfwlist/issues/.
->>>>>>> origin/master
 
 !---------403/451/520 & URL Redirects---------
 ||2dbook.com
@@ -6979,57 +6962,4 @@ ultrasurf
 zhengjian
 !#############Supplemental List End#############
 
-<<<<<<< HEAD
-=======
-!################Whitelist Start################
-@@||aliyun.com
-@@||baidu.com
-!--@@||bing.com
-@@||chinaso.com
-@@||chinaz.com
-@@|http://nrch.culture.tw/
-!--ISP cache works sometimes, verified at drpeng + gehua.
-@@||dl.google.com
-@@||kh.google.com
-@@||khm.google.com
-@@||khm0.google.com
-@@||khm1.google.com
-@@||khm2.google.com
-@@||khm3.google.com
-@@||khmdb.google.com
-@@||tools.google.com
-@@||fonts.googleapis.com
-@@||khm.googleapis.com
-@@||khm0.googleapis.com
-@@||khm1.googleapis.com
-@@||khm2.googleapis.com
-@@||khm3.googleapis.com
-@@||khmdb.googleapis.com
-@@||storage.googleapis.com
-@@||cn.gravatar.com
-@@||connectivitycheck.gstatic.com
-@@||csi.gstatic.com
-@@||fonts.gstatic.com
-@@||haosou.com
-@@||jd.com
-@@||jike.com
-@@|http://translate.google.cn
-@@|http://www.google.cn/maps
-@@||http2.golang.org
-@@||gov.cn
-@@||qq.com
-@@||sina.cn
-@@||sina.com.cn
-@@||sogou.com
-@@||so.com
-@@||soso.com
-@@||taobao.com
-@@||uluai.com.cn
-@@||weibo.com
-@@||yahoo.cn
-@@||youdao.com
-@@||zhongsou.com
-@@|http://ime.baidu.jp
-!################Whitelist End##################
->>>>>>> origin/master
 !---------------------EOF-----------------------
