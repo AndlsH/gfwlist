@@ -1,6 +1,6 @@
 <a href="http://info.flagcounter.com/T2RV"><img src="http://s09.flagcounter.com/count2/T2RV/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_20/viewers_GFWList/labels_1/pageviews_1/flags_0/percent_0/" border="0"></a>
 
-|[GFWList@Gitter][chat-room]|
+|[Annoucements & Discussions][chat-room]|
 |:---:|
 | [![chat-metadata]][chat-room]|
 
@@ -40,4 +40,13 @@ WARNING:
 
 GFWList URL(Github): https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 
-**Note that due to abuse of github raw function we might change the URL in the future to avoid violation of [ToS](https://github.com/site/terms).**
+**Official mirror URLs:**
+1. Pagure: https://pagure.io/gfwlist/raw/master/f/gfwlist.txt
+
+2. Bitbucket: https://bitbucket.org/gfwlist/gfwlist/raw/HEAD/gfwlist.txt
+
+3. Gitlab: https://gitlab.com/gfwlist/gfwlist/raw/master/gfwlist.txt
+
+4. TuxFamily: https://git.tuxfamily.org/gfwlist/gfwlist.git/plain/gfwlist.txt
+
+**Mirrors can alleviate the problem caused by raw file fetch at GitHub which might be a breach of [GitHub ToS](https://github.com/site/terms).**
