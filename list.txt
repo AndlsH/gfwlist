@@ -72,6 +72,7 @@ zh.wikipedia.org
 ||travis-ci.org
 ||nyt.com
 ||runtastic.com
+||xmind.net
 
 !###################  bet365  ################
 @@||365pushodds.com
