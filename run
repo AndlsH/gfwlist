@@ -1,8 +1,4 @@
 git checkout master
 sh up.sh
 git checkout accnet
-<<<<<<< HEAD
 sh sync.sh
-=======
-sh sync.sh
->>>>>>> origin/master
