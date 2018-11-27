@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Version: 20181123
+! Version: 20181125
 ! Title: AccNet
-! Last modified: 2018-11-23
+! Last modified: 2018-11-25
 ! Expires: 14 days
 ! Homepage: https://www.eegod.cn/
 
@@ -1430,6 +1430,7 @@ blogspot.com
 !--||www.google
 ||waveprotocol.org
 ||waymo.com
+||web.dev
 ||webmproject.org
 ||webrtc.org
 ||whatbrowser.org
