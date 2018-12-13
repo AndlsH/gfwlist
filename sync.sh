@@ -12,6 +12,17 @@ if [ $? -ne 0 ]; then
     read -n1
 fi
 
+genpac --proxy="SOCKS5 127.0.0.1:1080" -o autoproxy.pac --user-rule="list.txt"
+
+if [ $? -ne 0 ]; then
+    echo -e "\033[31m ==================== \033[0m"
+    echo -e "\033[31m =                  = \033[0m"
+    echo -e "\033[31m =  PAC generated!  = \033[0m"
+    echo -e "\033[31m =                  = \033[0m"
+    echo -e "\033[31m ==================== \033[0m"
+    read -n1
+fi
+
 base64 list.txt>accnet.txt
 
 if [ $? -eq 0 ]; then
