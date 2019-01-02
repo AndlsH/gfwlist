@@ -12,7 +12,7 @@ if [ $? -ne 0 ]; then
     read -n1
 fi
 
-genpac --proxy="SOCKS5 127.0.0.1:1080" -o autoproxy.pac --user-rule="list.txt"
+genpac --proxy="SOCKS5 127.0.0.1:1080" -o gfwlist.pac --user-rule="list.txt"
 
 if [ $? -ne 0 ]; then
     echo -e "\033[31m ==================== \033[0m"
@@ -29,6 +29,17 @@ if [ $? -eq 0 ]; then
     echo -e "\033[32m ==================== \033[0m"
     echo -e "\033[32m =                  = \033[0m"
     echo -e "\033[32m =     Encoded!     = \033[0m"
+    echo -e "\033[32m =                  = \033[0m"
+    echo -e "\033[32m ==================== \033[0m"
+fi
+
+gfwlist2privoxy -p 127.0.0.1:8118 -t http -f gfwlist.action -i accnet.txt
+
+if [ $? -eq 0 ]; then
+    echo -e "\033[32m ==================== \033[0m"
+    echo -e "\033[32m =                  = \033[0m"
+    echo -e "\033[32m =   Action file    = \033[0m"
+    echo -e "\033[32m =    generated!    = \033[0m"
     echo -e "\033[32m =                  = \033[0m"
     echo -e "\033[32m ==================== \033[0m"
 fi
