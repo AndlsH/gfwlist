@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Version: 20181125
+! Version: 20190101
 ! Title: AccNet
-! Last modified: 2018-11-25
+! Last modified: 2019-01-01
 ! Expires: 14 days
 ! Homepage: https://www.eegod.cn/
 
@@ -55,6 +55,7 @@
 @@||gov.cn
 @@||net.cn
 
+||sync.ankiweb.net
 ||linkedin.com
 ||texstudio.org
 ||codenvy.io
@@ -388,6 +389,7 @@ share.dmhy.org
 ||blog.fuckgfw233.org
 ||globalvoices.org
 ||glorystar.me
+||goregrish.com
 ||hbo.com
 ||hudson.org
 ||ipfs.io
@@ -399,9 +401,10 @@ share.dmhy.org
 ||i.lithium.com
 ||cloud.mail.ru
 ||cdn-images.mailchimp.com
+||mastodon.host
 ||mohu.club
 ||mohu.ml
-||mastodon.host
+||motiyun.com
 ||msa-it.org
 ||dictionary.goo.ne.jp
 ||go.nesnode.com
@@ -435,6 +438,7 @@ share.dmhy.org
 ||tn3.shemalez.com
 ||static.shemalez.com
 ||sosreader.com
+||sspanel.net
 ||sulian.me
 ||supchina.com
 ||teddysun.com
@@ -457,6 +461,7 @@ share.dmhy.org
 ||wire.com
 ||xm.com
 ||xuehua.us
+||zzcloud.me
 
 !---Digital Currency Exchange(CRYPTO)---
 ||allcoin.com
@@ -1246,6 +1251,8 @@ ftchinese.com/story/001071200
 ||agoogleaday.com
 ||ai.google
 ||ampproject.org
+@@|https://www.ampproject.org
+@@|https://cdn.ampproject.org
 ||android.com
 ||androidify.com
 ||api.ai
@@ -1268,6 +1275,7 @@ blogspot.com
 ||chromestatus.com
 ||chromium.org
 ||com.google
+||crbug.com
 ||creativelab5.com
 ||crisisresponse.google
 ||crrev.com
@@ -1286,6 +1294,7 @@ blogspot.com
 ||gcr.io
 ||get.app
 ||get.how
+||get.page
 ||getmdl.io
 ||getoutline.org
 ||ggpht.com
@@ -4414,6 +4423,8 @@ internetdefenseleague.org
 internetfreedom.org
 !--||interpol.int
 ||internetpopculture.com
+.inthenameofconfuciusmovie.com
+||inthenameofconfuciusmovie.com
 inxian.com
 ||inxian.com
 ipalter.com
@@ -5944,6 +5955,7 @@ riku.me/
 .rtycminnesota.org
 .ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 rukor.org
+.runbtx.com
 .rushbee.com
 .ruten.com.tw
 rutube.ru
@@ -5997,6 +6009,7 @@ savevid.com
 |http://www.sciencemag.org/content/344/6187/953
 .sciencenets.com
 .scmp.com
+||scmp.com
 .scmpchinese.com
 ||scramble.io
 .scribd.com
@@ -6277,6 +6290,7 @@ sowers.org.hk
 ||speedify.com
 spem.at
 ||spencertipping.com
+||spendee.com
 ||spicevpn.com
 .spideroak.com
 ||spideroak.com
