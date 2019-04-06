@@ -76,6 +76,8 @@ zh.wikipedia.org
 ||runtastic.com
 ||xmind.net
 ||garmin.com
+||vk.com
+||userapi.com
 
 !###################  bet365  ################
 .bet365.com
