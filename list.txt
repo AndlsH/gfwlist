@@ -1,19 +1,153 @@
 [AutoProxy 0.2.9]
-! Checksum: eR7x59tvGHsW4XFsuOF8jg
-! Expires: 6h
-! Title: GFWList4LL
-! GFWList with EVERYTHING included
-! Last Modified: Tue, 02 Apr 2019 15:01:44 -0400
-!
-! HomePage: https://github.com/gfwlist/gfwlist
-! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
-!
-! GFWList is unlikely to fully comprise the real
-! rules being deployed inside GFW system. We try
-! our best to keep the list up to date. Please
-! contact us regarding URL submission / removal,
-! or suggestion / enhancement at issue tracker:
-! https://github.com/gfwlist/gfwlist/issues/.
+! Version: 20191215
+! Title: AccNet
+! Last modified: 2019-12-15
+! Expires: 14 days
+! Homepage: https://www.eegod.cn/
+
+@@||eegod.cn
+@@||baidu.com
+@@||sina.com.cn
+@@||sina.cn
+@@||sinaimg.cn
+@@||weibo.com
+@@||weibo.cn
+@@||bdimg.com
+@@||sinajs.cn
+@@||360buyimg.com
+@@||jd.com
+@@||zdmimg.com
+@@||smzdm.com
+@@||taobao.com
+@@||amap.com
+@@||alipay.com
+@@||eelord.com
+@@||andls.com
+@@||xwall.win
+@@||qq.com
+@@||qpic.cn
+@@||gtimg.cn
+@@||bdstatic.com
+@@||cnbeta.com
+@@||cnbetacdn.com
+@@||126.net
+@@||163.com
+@@||netease.com
+@@||zhihu.com
+@@||zhimg.com
+@@||flyertea.com
+@@||flyert.com
+@@||bootcss.com
+@@||clouddn.com
+@@||coding.me
+@@||coding.net
+@@||hupu.com
+@@||qbox.me
+@@||myqcloud.com
+@@||staticfile.com
+@@||alicdn.com
+@@||clouddn.com
+@@||wechat.com
+@@||ipip.net
+@@||geetest.com
+@@||edu.cn
+@@||com.cn
+@@||gov.cn
+@@||net.cn
+
+||sync.ankiweb.net
+||linkedin.com
+||texstudio.org
+||codenvy.io
+||readme.io
+||githubapp.com
+||hostloc.com
+||s3.amazonaws.com
+.s3.amazonaws.com
+||github.io
+||github.com
+||gitbooks.io
+zh.wikipedia.org
+||cloudfront.net
+||paypal.com
+||travis-ci.com
+||travis-ci.org
+||nyt.com
+||wsj.net
+||runtastic.com
+||xmind.net
+||garmin.com
+||vk.com
+||userapi.com
+
+!###################  bet365  ################
+.bet365.com
+@@||365pushodds.com
+@@||58365365.com
+@@||356-848.com
+@@||68365365.com
+@@||28365365.com
+@@||356884.com
+
+!################ Cloud Drive ################
+||uploadocean.com
+||userscloud.com
+||usercdn.com
+
+!################Whitelist Start################
+@@||aliyun.com
+@@||baidu.com
+!--@@||bing.com
+@@||chinaso.com
+@@||chinaz.com
+@@|http://nrch.culture.tw/
+!--ISP cache works sometimes, verified at drpeng + gehua.
+@@||dl.google.com
+@@||kh.google.com
+@@||khm.google.com
+@@||khm0.google.com
+@@||khm1.google.com
+@@||khm2.google.com
+@@||khm3.google.com
+@@||khmdb.google.com
+@@||tools.google.com
+@@||clientservices.googleapis.com
+@@||fonts.googleapis.com
+@@||khm.googleapis.com
+@@||khm0.googleapis.com
+@@||khm1.googleapis.com
+@@||khm2.googleapis.com
+@@||khm3.googleapis.com
+@@||khmdb.googleapis.com
+@@||storage.googleapis.com
+@@||translate.googleapis.com
+@@||update.googleapis.com
+@@||safebrowsing.googleapis.com
+@@||cn.gravatar.com
+@@||connectivitycheck.gstatic.com
+@@||csi.gstatic.com
+@@||fonts.gstatic.com
+@@||ssl.gstatic.com
+@@||haosou.com
+@@||ip.cn
+@@||jike.com
+@@|http://translate.google.cn
+@@|http://www.google.cn/maps
+@@||http2.golang.org
+@@||gov.cn
+@@||qq.com
+@@||sina.cn
+@@||sina.com.cn
+@@||sogou.com
+@@||so.com
+@@||soso.com
+@@||uluai.com.cn
+@@||weibo.com
+@@||yahoo.cn
+@@||youdao.com
+@@||zhongsou.com
+@@|http://ime.baidu.jp
+!################Whitelist End##################
 
 !---------403/451/520 & URL Redirects---------
 !--ehentai
@@ -7890,58 +8024,4 @@ ultrareach
 ultrasurf
 !#############Supplemental List End#############
 
-!################Whitelist Start################
-@@||aliyun.com
-@@||baidu.com
-!--@@||bing.com
-@@||chinaso.com
-@@||chinaz.com
-@@|http://nrch.culture.tw/
-!--ISP cache works sometimes, verified at drpeng + gehua.
-@@||dl.google.com
-@@||kh.google.com
-@@||khm.google.com
-@@||khm0.google.com
-@@||khm1.google.com
-@@||khm2.google.com
-@@||khm3.google.com
-@@||khmdb.google.com
-@@||tools.google.com
-@@||clientservices.googleapis.com
-@@||fonts.googleapis.com
-@@||khm.googleapis.com
-@@||khm0.googleapis.com
-@@||khm1.googleapis.com
-@@||khm2.googleapis.com
-@@||khm3.googleapis.com
-@@||khmdb.googleapis.com
-@@||storage.googleapis.com
-@@||translate.googleapis.com
-@@||update.googleapis.com
-@@||safebrowsing.googleapis.com
-@@||cn.gravatar.com
-@@||connectivitycheck.gstatic.com
-@@||csi.gstatic.com
-@@||fonts.gstatic.com
-@@||ssl.gstatic.com
-@@||haosou.com
-@@||ip.cn
-@@||jike.com
-@@|http://translate.google.cn
-@@|http://www.google.cn/maps
-@@||http2.golang.org
-@@||gov.cn
-@@||qq.com
-@@||sina.cn
-@@||sina.com.cn
-@@||sogou.com
-@@||so.com
-@@||soso.com
-@@||uluai.com.cn
-@@||weibo.com
-@@||yahoo.cn
-@@||youdao.com
-@@||zhongsou.com
-@@|http://ime.baidu.jp
-!################Whitelist End##################
 !---------------------EOF-----------------------
