@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Version: 20191215
+! Version: 20201020
 ! Title: AccNet
-! Last modified: 2019-12-15
+! Last modified: 2020-10-20
 ! Expires: 14 days
 ! Homepage: https://www.eegod.cn/
 
